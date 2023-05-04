@@ -1,6 +1,6 @@
 {
   "name": "productmanager",
-  "version": "1.0.0",
+  "version": "1.0.0BETA",
   "description": "Provides you to manage your products easily with web panel.",
   "main": "src/API/main.ts",
   "dependencies": {
