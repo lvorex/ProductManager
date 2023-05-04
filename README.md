@@ -1,8 +1,8 @@
-# ProductManager
+# Product Manager
 
 *Easiest way to control your products with web panel.*
 <br>
-*Powered by Typescript API & MySQL & PHP*
+*Powered by API with Typescript & MySQL & PHP*
 <br>
 <br>
 
