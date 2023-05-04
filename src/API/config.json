@@ -1,0 +1,12 @@
+{
+    "API": {
+        "port": 8081
+    },
+
+    "sql": {
+        "host": "localhost",
+        "user": "root",
+        "pass": "",
+        "db": "productmanagerv2"
+    }
+}

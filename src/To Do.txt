@@ -1,0 +1,15 @@
+Product Manager V2
+Todo Listesi
+
+
+- Web klasöründen web panelini geliştirmeye kaldığın yerden devam et. (checkProduct vb. handlerlar eklenecek.)
+
+|
+
+- Handlerlar bittiği zaman hepsini tek tek test et.
+
+|
+
+- GitHub'ta bittiği zaman paylaşılacak.
+
+|_
