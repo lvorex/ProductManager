@@ -17,3 +17,5 @@
 > *Admin account: Username: Lvorex | Password: test*
 >
 > *You can change it on your SQL server (if you using XAMPP type http://localhost/phpmyadmin*
+
+### This project is among my active projects. So it will be actively updated. (This version is a beta version.)
